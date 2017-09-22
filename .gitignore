@@ -1,4 +1,11 @@
 # LaTeX stuff
+*blx.bib
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.run.xml
 *.log
 *.aux
 *.synctex.gz
